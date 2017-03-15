@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="sokiable" version="4">
+  <OBJECT>
+    <ID name="sokiable" mc="Standard.Package" uid="28de4cef-2b87-46bc-a804-738ab2bfc47a"/>
+    <PID name="Sokiable" mc="Standard.Project" uid="9ba7c05a-442e-4d69-b09e-6594f96e23fa"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[sokiable]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedBehavior">
+        <COMPID name="Communication Interaction" mc="Standard.CommunicationInteraction" uid="36805312-69c8-46c6-a902-24d8d1958c75"/>
+      </COMP>
+      <COMP relation="OwnedElement">
+        <COMPID name="User" mc="Standard.Actor" uid="f10c5fa7-81ae-41bc-84e0-9b42eaf65971"/>
+        <COMPID name="Add / Remove social accounts" mc="Standard.UseCase" uid="07b4042d-f210-443e-96a6-521e052c18d0"/>
+        <COMPID name="Read news feed from all linked accounts" mc="Standard.UseCase" uid="d328d7ab-6804-44fa-990c-569027f7dd0a"/>
+        <COMPID name="Like / Unlike news" mc="Standard.UseCase" uid="7a13053e-65c9-43b7-887b-701a595dc57b"/>
+        <COMPID name="Chat with connections using any of social networks" mc="Standard.UseCase" uid="268750da-3b51-4c23-ade4-22f049cbdde6"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="sokiable Use Case diagram" mc="Standard.UseCaseDiagram" uid="5b730935-6416-4dec-a02e-a9ffa7e515a2"/>
+        <COMPID name="sokiable Class diagram" mc="Standard.ClassDiagram" uid="3c719433-05f9-4dc7-ba75-9ff37824fd05"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Sokiable" version="4">
+  <OBJECT>
+    <ID name="Sokiable" mc="Standard.Project" uid="9ba7c05a-442e-4d69-b09e-6594f96e23fa"/>
+    <ATTRIBUTES>
+      <ATT name="ProjectContext"></ATT>
+      <ATT name="ProjectDescr"></ATT>
+      <ATT name="Name"><![CDATA[Sokiable]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="Model">
+        <COMPID name="sokiable" mc="Standard.Package" uid="28de4cef-2b87-46bc-a804-738ab2bfc47a"/>
+      </COMP>
+      <COMP relation="DiagramRoot">
+        <COMPID name="Sokiable" mc="Infrastructure.DiagramSet" uid="4c691537-4966-4e21-a35c-898a5bf1330c"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

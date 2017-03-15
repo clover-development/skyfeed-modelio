@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Communication Interaction Communication diagram" version="4">
+  <OBJECT>
+    <ID name="Communication Interaction Communication diagram" mc="Standard.CommunicationDiagram" uid="95d1802c-8ab5-4829-a4fb-16c199a9f9e4"/>
+    <PID name="Communication Interaction" mc="Standard.CommunicationInteraction" uid="36805312-69c8-46c6-a902-24d8d1958c75"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">34</ATT>
+      <ATT name="UiData"><![CDATA[eJztW1FzokgQ/iuUdQ93DxhQVLhks5Vo1k1FY8rsXdU9pRoYDBuYSQ1DjP9+B9EEkQAqoNmzKqmyBqenZ+brb/rrwbOvr64jvCDq2QR/qcl1qSZ8PT8b6T+RwQTb5E01gc2e0ZcaoZO6S0zk2KRu2jCh4NaRaTNC6wZxXR/bBjBupY4c5CLMvNXmZZe+240298LmmuDCT0If3jyRaudnd5Q8I8pmAgaXO+DAjPisBwz4s3/B8dHCM+w7Tu3k/Oxk2WGt6z2bOai2Mq9G2ry84PvBBCiqh31z+NcFzwATmcvBrl7ZGFk5R7nlJhY9BfTKevo193H+MfhgIgt8h8UmeRJOJ23iFDnAkMn9iK3ZMGgSXoKWYHkAm0DNetLWCFrLlFWpYYgq6C1RURuaCIqli3LbkDUNNEtDSvryO+CxG0ymeAA6cmKe3DNq40ntfGVs4RozRMGYf159sli9s5O5kdTJEwddY977mXh20PeDkXOY6j7ajklRYGFge2wFSc2CIgTzrvHwuOVta9iTN4iNMfcS8CSA1WKzFemU/8mSdNqSNo4apfSoCUImjM9KwR4stNAym4qkqR1RQZolKqbcFgE0TWzoDdTqAEiWqhWAdHo42G2VjN07artAZ4kw3oTi12EsnW4N4nZeEHNTr7OdkRwnxyOSE20NwZ77viOiOyUj+jvie0yrz1fUakHbPoK2IPr1Hsn0wTbWTFwSPgbgt4Vh1Efps5tbekKzKaFmhjELHC/LGgPj6cHjaRYixbjmJCx6DlPv0AqDOelRJBC0kgP8G0dxAUEeJLCTwMYy7do44mXpeE4dYMjzhGaChGA7hMc5TArkgDxhuy8SyOtbNSwgF1WXqEh1NVSerjb4f1PbJmWVyy9X7FN4mUpbN1ULRENWQVQ0xRJ1WbLEIL4UBVTVbFsF0MAQYV/Q4YD0l1x28aBkAbYlmnOXEYo52eQjpvegxOSyiwv7kmJyxQUEeR+Z2eeF7/8kHzsoUSaXXXY5HFVWcSHmeHYd1dnnUGfrj2IODGz85CVmCkXVdIxHwBg5cQLphs0bM0f0uji1GBPxhge+w+fJXbgD9phnyHviUwNdcOcJjQ2aLnLXB4W5EY8PPobZvWOboDtLyzk8MW3L4ljDBoohpGfzkYJu78SpnDa3YKYe8ljiTFP17V5n2uEzjdegcsw02P0FjBZxkRUeYw48RG9sHGeOK+y7f+fS/Tdo9keXH6JofnEeGrw236YyGv/4PuqPbi8GGUwxR+QYnuKrk50uM6ATxPJ1zbGKSS9upErmz1wKWdCUoKgqGG1TEhtNwxSVltYR1Y4miaqitS29iTodI349s83p+6f8l9B1bOPJExwysbGg+4wRnOPADBkrslCtdHeCqI+mNM30r6NXFsZgcFgM4Xl1+1NrBxucFS7yPJ4rxM+Ke/7NYfjoglIy3cObSam6ufgMsxHfjt8L5gUmlxahUz6dBwiAkWQ3SRo1UqsFCUfbO/w5Nr8tXoIC553XB4QvZL5zzlp0j59yxNejpbx6RkT6GTIqowT4kqXCMvqzLZLfxK0oSqV+wB3XmO8FD4s980fFCvXIH3n5Q+dybgsCSVdHh0EgnU9NIGmKN/qmZ7oILJo/+pT4z9XzRzNVdR754wD4YxIgY5vrmXzV3OamanwvjJMhOrIop7Ej5zQyxi+Kc9JviKP0wulmXt4Lv7V4xDekF/56YBi0XoWtIWCrp5aKL35/c2rZXsHnZRwXbBzWjI919ELr6NGgSL8nPwy23ZFsd+RaMYusiyLbdK1eZHFpX8ldqgQ+MvD+i0tl53ap1YEDYZus3CqLbkR5Z8IpMbs7mde0P7bdd4Ob0vpiITM8lfPf1MaGuZz0KEw59gYwQ7H7uGa+moMZGvB43slNBKlm1GI15LZZr8P4QawdT2qWJNDr1wcX/12NHy4vujf98eif217BVJBySxPZu8RreiXfHfgRFGWB4sformg0fPjoF20ukPc=]]></ATT>
+      <ATT name="Name"><![CDATA[Communication Interaction Communication diagram]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Represented">
+        <REFOBJ>
+          <ID name="r" mc="Standard.CommunicationNode" uid="5d340987-4e9f-4d16-aa99-2b2e57aa0f89"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="Menu bar" mc="Standard.CommunicationNode" uid="d46bd8fa-c18a-494f-b10f-eade44a88d6f"/>
+        </REFOBJ>
+        <REFOBJ>
+          <ID name="(1) Clicks login button" mc="Standard.CommunicationChannel" uid="488ac6d0-23cd-4597-8790-8496fb3e77c6"/>
+        </REFOBJ>
+      </LINK>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="52a3bdc9-d5be-4bec-806d-5f51e1ce835e"/>
+          <ATTRIBUTES>
+            <ATT name="Content"></ATT>
+            <ATT name="MimeType"></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

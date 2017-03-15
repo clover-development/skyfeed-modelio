@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="sokiable Class diagram" version="4">
+  <OBJECT>
+    <ID name="sokiable Class diagram" mc="Standard.ClassDiagram" uid="3c719433-05f9-4dc7-ba75-9ff37824fd05"/>
+    <PID name="sokiable" mc="Standard.Package" uid="28de4cef-2b87-46bc-a804-738ab2bfc47a"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">18</ATT>
+      <ATT name="UiData"><![CDATA[eJztU01P4zAQ/StW7nULaVUqhSJIUIXIUtQuK3FCk3hSTB27sl1o/v06TbrQrhoFCS2XPdkez3vz9Sa42OSCvKI2XMlz74T2PHIxDqbJC6aWcOZMHrHFCs89pRc0VwwFV5RxWGjIKTJulabGguVLigJzlNZU73TnNMnn23dUvT2Sw4vST3+C9rxxcK/VCrUtiITcxRJQqLWNwIL7+wVijXUSci2E1x0H3R3gL+jcFgK9vRJOm0owpb+hqdJIK2yL/EIwKTBku2DXGzvDrGWUO0dRIwlubJTcuBy31/LCMIO1sAdFdqtymgrXKMAic3kc9OxHaSKvpaVsD0gGmtFQgDH1SIifDk9Gfd/v9AbZqNNn6bCTwHDQGWWZPzw77WesN2huu2Ozt1K9yRgSFAcZzK3mcuGNjVpySASSbXBSNyfobn0ba1MCb2So8pUy3LqpHAnQgip85oJpLBlibsqO1sdRRMzl0rR3v1pEGt5cOjEUqPeV6Dcu0259WIU3VJQMbn/2CP/N+nwO9b3a4+yIHKIJjS8fr2dPV5fh7WQ2fbiLvkYhLdbx48ze1fNBC/3/WvgWLfyc3n+1CI5+/QYXk5Ca]]></ATT>
+      <ATT name="Name"><![CDATA[sokiable Class diagram]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="76021863-8a91-4139-b916-00c32b530ec1"/>
+          <ATTRIBUTES>
+            <ATT name="Content"></ATT>
+            <ATT name="MimeType"></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
